@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 350px;
+}
+
+.option {
+  width: 25%;
+  background-color: white;
+  color: grey;
+}
+
+.option-selected {
+  width: 25%;
+  background-color: red;
+  color: white;
+}

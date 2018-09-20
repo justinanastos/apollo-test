@@ -1,0 +1,20 @@
+.notification {
+  display: flex;
+}
+
+.notification-content {
+  max-width: 325px;
+  text-align: left;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+}
+
+.line {
+  flex: 1;
+  width: 2px;
+  background-color: grey;
+  margin: 10px auto;
+}
